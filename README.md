@@ -46,6 +46,8 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Preview
-
+[!Screenshot](./client/src/images/readme_1.png)
+[!Screenshot](./client/src/images/readme_2.png)
+[!Screenshot](./client/src/images/readme_3.png)
 ## License
 See license in repo
